@@ -60,4 +60,4 @@ def process_directory(directory):
 
 
 # 使用示例
-process_directory(r'D:\\archieve\\极客空间MD\\Java 业务开发常见错误 100 例\\')
+process_directory(r'D:\\archieve\\极客空间MD\\Java核心技术面试精讲\\')
